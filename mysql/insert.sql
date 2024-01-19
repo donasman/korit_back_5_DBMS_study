@@ -13,3 +13,5 @@ insert into student_tb
 values	
 	(0, '정건삼', 26, null),
 	(0, '정건사', 27, null); 
+    
+
